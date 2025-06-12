@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENSEKApiTests", "ENSEKApiTests.csproj", "{D03C7808-9CEC-44E1-830B-FDA723F0EA84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D03C7808-9CEC-44E1-830B-FDA723F0EA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03C7808-9CEC-44E1-830B-FDA723F0EA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03C7808-9CEC-44E1-830B-FDA723F0EA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03C7808-9CEC-44E1-830B-FDA723F0EA84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6209AF68-D3DB-4F15-BFA4-CA87A1EB115E}
+	EndGlobalSection
+EndGlobal
